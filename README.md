@@ -1,5 +1,5 @@
 # pandas_excel
-# How to generate well formatted (including grouping) Excel spreadsheet using Python and Pandas
+# How to generate well formatted (including grouping) Excel spreadsheet using Python and Pandas and xlsxwriter
   
 This little snippet of code shows how you can get well formatted (including groping) Excel document from any table based data.
 
