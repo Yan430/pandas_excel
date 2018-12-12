@@ -1,4 +1,4 @@
-# example on how to generate well structured Excel file from any kind of row table form date
+# example on how to generate well structured Excel file from any kind of table like data 
 
 import os
 import pandas as pd  # this is how I usually import pandas
